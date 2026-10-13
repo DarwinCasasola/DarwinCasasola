@@ -1,24 +1,24 @@
-## ⚽ Hey, I’m Darwin
+##  Hey, I’m Darwin
 
-Full-stack developer building clean, real-world applications inspired by sports and fitness.
+Full-stack developer building clean, real-world applications. I am looking to expand my knowledge and better myself in the tech industry.
 
 ---
 
-### 🏗️ Current Focus
+###  Current Focus
 - Strength Therapy (full-stack sport performance platform)
 - Soccer analytics & fan-focused tools
 - QA automation & testing workflows
 
 ---
 
-### 🚀 Featured Work
+###  Featured Work
 Strength therapy is a full-stack fitness platform for a local PT that focuses on sports medicine and pain managment. 
 ---
 
-### 🧰 Tech Stack
+###  Tech Stack
 React • Node • SQL • Backend/Frontend • Javascript
 
 ---
 
-### 📫 Connect
+###  Connect
 LinkedIn | Portfolio (soon)
