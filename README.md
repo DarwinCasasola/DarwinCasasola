@@ -21,4 +21,5 @@ React • Node • SQL • Backend/Frontend • Javascript
 ---
 
 ###  Connect
-LinkedIn | Portfolio (soon)
+LinkedIn <a href="https://www.linkedin.com/in/darwin-casasola-cifuentes-3b1151348/" target="_blank">Connect with me on LinkedIn</a>
+ | Portfolio (soon)
